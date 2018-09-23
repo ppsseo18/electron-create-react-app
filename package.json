@@ -1,6 +1,6 @@
 {
   "name": "electron-create-react-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "main": "public/electron.js",
   "description": "boilerplate for electron with create react app",
