@@ -1,4 +1,4 @@
-# electron-updater-example
+# electron-create-react-app
 create-react-app 기반의 electron boilerplate
 https://github.com/iffy/electron-updater-example
 
